@@ -1,16 +1,16 @@
 * {
-  text-align: center;
   margin: 24px;
+  text-align: center;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   font-size: large;
 }
 
-button {
-  background-color: lightgreen;
-}
-
 .container {
   width: 50%;
   margin: auto;
+}
+
+.component-container {
+  margin-bottom: 120px;
 }
